@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Greetings 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74262&center=true&vCenter=true&width=435&lines=Have+a+amazing+day!)](https://git.io/typing-svg)
 <!--
 **oscarqjh/oscarqjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
