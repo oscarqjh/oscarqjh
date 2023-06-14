@@ -1,5 +1,5 @@
 ### Greetings 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74262&center=true&vCenter=true&width=435&lines=Have+a+amazing+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74262&center=true&vCenter=true&width=435&lines=Have+an+amazing+day!)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarqjh&show_icons=true&theme=tokyonight)
 <!--
