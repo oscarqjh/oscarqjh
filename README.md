@@ -5,7 +5,7 @@
 
 <!-- About me section -->
 <div>
-  <img align=right src="https://user-images.githubusercontent.com/91544028/253811969-627ff55c-0767-4004-897b-b4f1599ff8df.gif" height=400px width=250px>
+  <img align=right src="https://user-images.githubusercontent.com/91544028/253811969-627ff55c-0767-4004-897b-b4f1599ff8df.gif" height=600px width=300px>
   <h3><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px> About me</h3>
   <p align=left>
     Hello, I'm Oscar, an aspiring developer with a strong foundation in programming languages such as C, Java, Python, and JavaScript. Beyond programming, I have a keen interest in design and am proficient in Photoshop. I       am also currently learning Blender to further enhance my design abilities. I am enthusiastic about exploring new areas and applying my knowledge to create innovative solutions. 
