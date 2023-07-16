@@ -48,8 +48,6 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <p>Verson Controls: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <p>IDEs: </p>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
 </div>
 
 <!-- Education section -->
