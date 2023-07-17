@@ -61,7 +61,7 @@
 
 <!-- Contact me section -->
 <div>
-  <h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> Connect with me!</h3>
+  <h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> Connect with me!</h3>
   <ul>
     <li>LinkedIn: <a href="www.linkedin.com/in/oscarqian">Oscar Qian</a></li>
     <li>Email: <a href="oscar.jh9@gmail.com">oscar.jh9@gmail.com</a></li>
