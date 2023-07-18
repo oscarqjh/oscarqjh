@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <p>Frontend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
     <img src="http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white" alt="HTML">
     <img src="http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
