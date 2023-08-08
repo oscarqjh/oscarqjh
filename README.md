@@ -14,7 +14,7 @@
     Hello, I'm Oscar, an aspiring developer with a strong foundation in programming languages such as C, Java, Python, and JavaScript. Beyond programming, I have a keen interest in design and am proficient in Photoshop. I       am also currently learning Blender to further enhance my design abilities. I am enthusiastic about exploring new areas and applying my knowledge to create innovative solutions. 
   </p>
   <p align=center>
-    Check out my 2023 THREE.js portfolio website <a href="http://oscar-threejs.vercel.app/">here</a>.
+    >> Check out my 2023 THREE.js portfolio website <a href="http://oscar-threejs.vercel.app/">here</a> <<
   </p>
 </div>
 
@@ -34,6 +34,7 @@
     <img src="http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
   <p>Frontend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
@@ -45,10 +46,11 @@
   <p>Backend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express.js">
-  <p>Design Tools: </p>&nbsp;&nbsp;
+  <p>Softwares: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white" alt="Canva">
+    <img src="https://img.shields.io/badge/Unity-000000?&style=flat-square&logo=unity&logoColor=white" alt="Unity">
   <p>Databases: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
