@@ -37,9 +37,10 @@
   <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
   <p>Frontend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/React Router-black?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React-Router">
     <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
-    <img src="http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-    <img src="http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+    <img src="http://img.shields.io/badge/-HTML-e24c27?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+    <img src="http://img.shields.io/badge/-CSS-2a65f1?style=flat-square&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
