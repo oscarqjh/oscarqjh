@@ -42,11 +42,12 @@
     <img src="http://img.shields.io/badge/-HTML-e24c27?style=flat-square&logo=html5&logoColor=white" alt="HTML">
     <img src="http://img.shields.io/badge/-CSS-2a65f1?style=flat-square&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI">
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI">
+    <img src="https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind-CSS">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
   <p>Backend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express.js">
+    <img src="https://img.shields.io/badge/Express.js-17202C?style=flat-square&logo=express" alt="Express.js">
   <p>Softwares: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender">
