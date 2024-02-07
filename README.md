@@ -35,10 +35,12 @@
     <img src="http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R">
   <p>Frontend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/React Router-black?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React-Router">
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
     <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
     <img src="http://img.shields.io/badge/-HTML-e24c27?style=flat-square&logo=html5&logoColor=white" alt="HTML">
     <img src="http://img.shields.io/badge/-CSS-2a65f1?style=flat-square&logo=css3&logoColor=white" alt="CSS">
