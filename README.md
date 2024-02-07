@@ -3,6 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&center=true&width=435&lines=Welcome!" alt="Typing SVG" /></a>
 </div>
 
+
 <!-- About me section -->
 <div>
   <h3 align=center>
@@ -25,7 +26,7 @@
 <!-- Skills section -->
 <div>
   <h3>
-    <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width=30px height=30px>  
+    ![activities](https://github.com/oscarqjh/oscarqjh/assets/91544028/1e48cfa3-1015-42c7-b837-d87ee490091c)
      Skills
   </h3>
   <p>Languages: </p>&nbsp;&nbsp;
