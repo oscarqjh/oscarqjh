@@ -26,7 +26,7 @@
 <!-- Skills section -->
 <div>
   <h3>
-    ![activities](https://github.com/oscarqjh/oscarqjh/assets/91544028/1e48cfa3-1015-42c7-b837-d87ee490091c)
+    <img src="https://github.com/oscarqjh/oscarqjh/assets/91544028/1e48cfa3-1015-42c7-b837-d87ee490091c">
      Skills
   </h3>
   <p>Languages: </p>&nbsp;&nbsp;
