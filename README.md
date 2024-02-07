@@ -26,7 +26,7 @@
 <!-- Skills section -->
 <div>
   <h3>
-    <img src="[https://github.com/oscarqjh/oscarqjh/assets/91544028/1e48cfa3-1015-42c7-b837-d87ee490091c](https://github.com/oscarqjh/oscarqjh/assets/91544028/b7ccc297-0415-4881-b5b3-e9c3e57fa76f)" width=40px height=40px>
+    <img src="https://github.com/oscarqjh/oscarqjh/assets/91544028/b7ccc297-0415-4881-b5b3-e9c3e57fa76f" width=40px height=40px>
      Skills
   </h3>
   <p>Languages: </p>&nbsp;&nbsp;
