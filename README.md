@@ -48,6 +48,9 @@
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI">
     <img src="https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind-CSS">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
+  <p>ML & AI: </p>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white" alt="huggingface">
+    <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white" alt="openai">
   <p>Backend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-17202C?style=flat-square&logo=express" alt="Express.js">
@@ -59,6 +62,7 @@
   <p>Databases: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="neo4j">
   <p>Verson Controls: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git">
 </div>
