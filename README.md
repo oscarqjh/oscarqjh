@@ -71,7 +71,7 @@
 <div>
   <h3><img src="https://user-images.githubusercontent.com/91544028/253814269-9c8eff65-6f72-424a-939c-e2baefe74ac7.gif" width=40px height=40px> Education</h3>
   <ul>
-    <li>NTU Bachelor of Science in Data Science and Artificial Intelligence (Current)</li>
+    <li>NTU Bachelor of Computing in Data Science and Artificial Intelligence (Current)</li>
     <li>Relevant coursework: Data Structure and Algorithm, Object-Oriented Programming, Data Science and Artificial Intelligence</li>
   </ul>
 </div>
