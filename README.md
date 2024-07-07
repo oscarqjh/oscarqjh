@@ -49,14 +49,16 @@
     <img src="https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind-CSS">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
   <p>ML & AI: </p>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white" alt="huggingface">
-    <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white" alt="openai">
+    <img src="https://img.shields.io/badge/Huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white" alt="huggingface">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="openai">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="langchain">
   <p>Backend Development: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-17202C?style=flat-square&logo=express" alt="Express.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" alt="Flask">
   <p>Softwares: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white" alt="Canva">
     <img src="https://img.shields.io/badge/Unity-000000?&style=flat-square&logo=unity&logoColor=white" alt="Unity">
   <p>Databases: </p>&nbsp;&nbsp;
