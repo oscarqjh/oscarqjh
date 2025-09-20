@@ -30,41 +30,43 @@
      Skills
   </h3>
   <p>Languages: </p>&nbsp;&nbsp;
-    <img src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white" alt="Java">
-    <img src="http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black" alt="Javascript">
-    <img src="http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
   <p>Frontend Development: </p>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/React Router-black?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React-Router">
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+    <img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
     <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
     <img src="http://img.shields.io/badge/-HTML-e24c27?style=flat-square&logo=html5&logoColor=white" alt="HTML">
     <img src="http://img.shields.io/badge/-CSS-2a65f1?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI">
     <img src="https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind-CSS">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
   <p>ML & AI: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white" alt="huggingface">
     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="openai">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="langchain">
   <p>Backend Development: </p>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-17202C?style=flat-square&logo=express" alt="Express.js">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" alt="Flask">
   <p>Softwares: </p>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
-    <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white" alt="Canva">
-    <img src="https://img.shields.io/badge/Unity-000000?&style=flat-square&logo=unity&logoColor=white" alt="Unity">
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
   <p>Databases: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="neo4j">
+    <img src="https://img.shields.io/badge/-Snowflake-2D9CDB?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake">
   <p>Verson Controls: </p>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git">
 </div>
