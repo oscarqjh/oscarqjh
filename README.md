@@ -12,7 +12,7 @@
     <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px>
   </h3>
   <p align=center>
-    Hello, I'm Oscar, an aspiring developer with a strong foundation in programming languages such as C, Java, Python, and JavaScript. Beyond programming, I have a keen interest in design and am proficient in Photoshop. I       am also currently learning Blender to further enhance my design abilities. I am enthusiastic about exploring new areas and applying my knowledge to create innovative solutions. 
+    Hello, I'm Oscar, an aspiring data scientist with a strong foundation in programming languages such as C, Java, Python, and JavaScript. I am also currently learning Blender to further enhance my design abilities. I am enthusiastic about exploring new areas and applying my knowledge to create innovative solutions. 
   </p>
   <p align=center>
     >> Check out my 2023 THREE.js portfolio website <a href="http://oscar-threejs.vercel.app/">here</a> <<
